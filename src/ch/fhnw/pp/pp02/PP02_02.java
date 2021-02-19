@@ -1,4 +1,4 @@
-package ch.fhnw.pp.chap02;
+package ch.fhnw.pp.pp02;
 
 import java.util.Scanner;
 

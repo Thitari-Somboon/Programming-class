@@ -1,4 +1,4 @@
-package ch.fhnw.ex.ex02;
+package ch.fhnw.ex.e02;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package ch.fhnw.pp.chap02;
+package ch.fhnw.pp.pp02;
 /*
 Create a revised version of the Lincoln program from Chapter 1
 such that quotes appear around the quotation
