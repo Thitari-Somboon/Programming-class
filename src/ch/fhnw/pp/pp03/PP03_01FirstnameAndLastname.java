@@ -13,7 +13,7 @@ Assume that the last name is at least five letters long.
 Similar algorithms are sometimes used to
 generate usernames for new computer accounts.
  */
-public class PP03_01 {
+public class PP03_01FirstnameAndLastname {
     public static void main(String[] args) {
         char _1stLetter_of_fName;
         String fName, lName, _5thLetter_of_lName, username;
